@@ -5,9 +5,9 @@
 
 ## **Required**
 ### Simulating the performance of different modulation schemes.
-- [**BPSK**](https://github.com/MoamenAttia/Digital-Communication-Project#bpsk--binary-phase-shift-keying-modulation-)
+- [**BPSK**](#binary-phase-shift-keying-modulation-BPSK)
 - [**QPSK**](#quadrature-phase-shift-keying-modulation-qpsk)
-- [**QAM16**](#quadrature-amplitude-modulation-qam)
+- [**QAM16**](#quadrature-amplitude-modulation-qam16))
 - [**QAM64**](#quadrature-amplitude-modulation-qam)
 
 ## **Modulation Schemes :-**
@@ -48,3 +48,20 @@ Phase offset = pi/4
 ### - BER Diagram
 ![BER Diagram](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/QPSK/Figures/SNR%20VS%20BER.PNG)
 ___
+## **Quadrature Amplitude Modulation (QAM16)**
+### What is it ?!
+**QAM** is a signal in which two carriers shifted in phase by 90 degrees (i.e. sin and cos) are modulated and combined. As a result of their 90 phase difference they are in quadrature and this gives rise to the name. Often one signal is called the In-phase or I signal, and the other is the quadrature or Q signal. 
+### Parameters
+```
+Normalization method = Average Power
+Random Generator set size = 16
+M-ary number = 16
+```
+### Block Diagram
+![QAM16 Block Diagram](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/16QAM/Figures/QAM%2016%20Blocks.PNG)
+### - At Transmitter Scatter Plot
+![Before Adding Noise](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/16QAM/Figures/QAM%2016%20Before%20Noise.PNG)
+### - At Receiver Scatter Plot
+![After Adding Noise](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/16QAM/Figures/QAM%2016%20After%20Noise.PNG)
+### - BER Diagram
+![BER Diagram](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/16QAM/Figures/ber%20vs%20snr.png)
