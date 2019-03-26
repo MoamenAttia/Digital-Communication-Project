@@ -20,12 +20,12 @@
 Random Generator set size = 2
 ```
 ### Block Diagram
-![BPSK Block Diagram](/BPSK/Figures/BPSK Blocks.PNG)
+![BPSK Block Diagram](/BPSK/Figures/BPSK-Blocks.PNG)
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/BPSK/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
-![At Receiver : After Adding Noise -10 DP](/BPSK/Figures/After-Noise--10.PNG)
-![At Receiver : After Adding Noise +10 DP](/BPSK/Figures/After-Noise-+10.PNG)
+- ![At Receiver : After Adding Noise -10 DP](/BPSK/Figures/After-Noise--10.PNG)
+- ![At Receiver : After Adding Noise +10 DP](/BPSK/Figures/After-Noise-+10.PNG)
 ### - BER Diagram
 ![BER Diagram](/BPSK/Figures/ber-vs-snr.png)
 ___
@@ -39,12 +39,12 @@ Random Generator set size = 4
 Phase offset = pi/4
 ```
 ### Block Diagram
-![QPSK Block Diagram](/QPSK/Figures/QPSK Blocks.PNG)
+![QPSK Block Diagram](/QPSK/Figures/QPSK-Blocks.PNG)
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/QPSK/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
-![At Receiver : After Adding Noise -10 DP](/QPSK/Figures/AfterNoise--10.PNG)
-![At Receiver : After Adding Noise +10 DP](/QPSK/Figures/AfterNoise-+10.PNG)
+- ![At Receiver : After Adding Noise -10 DP](/QPSK/Figures/AfterNoise--10.PNG)
+- ![At Receiver : After Adding Noise +10 DP](/QPSK/Figures/AfterNoise-+10.PNG)
 ### - BER Diagram
 ![BER Diagram](/QPSK/Figures/SNR-VS-BER.PNG)
 ___
@@ -62,10 +62,10 @@ M-ary number = 16
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/16QAM/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
-![At Receiver : After Adding Noise -10 DP](/16QAM/Figures/After-Noise--10.PNG)
-![At Receiver : After Adding Noise +10 DP](/16QAM/Figures/After-Noise+-10.PNG)
+- ![At Receiver : After Adding Noise -10 DP](/16QAM/Figures/After-Noise--10.PNG)
+- ![At Receiver : After Adding Noise +10 DP](/16QAM/Figures/After-Noise+-10.PNG)
 ### - BER Diagram
-![BER Diagram](/16QAM/Figures/SNR-VS-BER.PNG)
+![BER Diagram](/16QAM/Figures/ber-vs-snr.png)
 ___
 ## **Quadrature Amplitude Modulation (QAM64)**
 ### What is it ?!
@@ -77,12 +77,12 @@ Random Generator set size = 64
 M-ary number = 64
 ```
 ### Block Diagram
-![QAM64 Block Diagram](/64QAM/Figures/QAM64 Blocks.PNG)
+![QAM64 Block Diagram](/64QAM/Figures/QAM64-Blocks.PNG)
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/64QAM/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
-![At Receiver : After Adding Noise -10 DP](/64QAM/Figures/QAM64-AfterNoise--10.PNG)
-![At Receiver : After Adding Noise +10 DP](/64QAM/Figures/QAM64-AfterNoise-+10.PNG)
+- ![At Receiver : After Adding Noise -10 DP](/64QAM/Figures/QAM64-AfterNoise--10.PNG)
+- ![At Receiver : After Adding Noise +10 DP](/64QAM/Figures/QAM64-AfterNoise-+10.PNG)
 ### - BER Diagram
 ![BER Diagram](/64QAM/Figures/SNR-VS-BER.PNG)
 ___
@@ -101,7 +101,7 @@ Samples per symbol = 17
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/FSK/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
-![At Receiver : After Adding Noise -10 DP](/FSK/Figures/AfterNoise--10.PNG)
-![At Receiver : After Adding Noise +10 DP](/FSK/Figures/AfterNoise-+10.PNG)
+- ![At Receiver : After Adding Noise -10 DP](/FSK/Figures/AfterNoise--10.PNG)
+- ![At Receiver : After Adding Noise +10 DP](/FSK/Figures/AfterNoise-+10.PNG)
 ### - BER Diagram
 ![BER Diagram](/FSK/Figures/ber.PNG)
