@@ -42,7 +42,7 @@ ___
 Random Generator set size = 2
 ```
 ### Block Diagram
-![BPSK Block Diagram](/BPSK-Raised-Cosine/Figures/BPSK-Blocks.PNG)
+![BPSK Block Diagram](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/BPSK-Raised-Cosine/Figures/BPSK-Blocks.PNG)
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/BPSK-Raised-Cosine/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
@@ -210,7 +210,7 @@ Frequency separation = 6 Hz
 Samples per symbol = 17
 ```
 ### Block Diagram
-![FSK Block Diagram](/FSK-Raised-Cosine/Figures/FSK_Blocks.PNG)
+![FSK Block Diagram](https://github.com/MoamenAttia/Digital-Communication-Project/blob/master/FSK-Raised-Cosine/Figures/FSK_Blocks.PNG)
 ### - At Transmitter Scatter Plot
 ![Before Adding Noise](/FSK-Raised-Cosine/Figures/BeforeNoise.PNG)
 ### - At Receiver Scatter Plot
